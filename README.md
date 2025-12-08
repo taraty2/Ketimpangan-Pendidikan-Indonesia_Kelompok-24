@@ -4,6 +4,7 @@ Projek akhir mata kuliah Data Wrangling oleh kelompok 24, dengan judul Analisis 
 ## Data Understanding
 Dataset Dataset_sekolahSMA berisi beberapa variabel yang akan digunakan untuk analisis ketimpangan pendidikan tingkat SMA antar Provinsi di Indonesia pada tahun 2023.
 Dataset ini diperoleh dari gabungan 5 dataset yang berasal dari Badan Pusat Statistik (BPS), Open Data Jabar, dan Portal Satu Data Indonesia. Adapun dataset final yang digunakan yaitu berisi 20 variabel dengan total 34 data (provinsi) sesuai dengan gambar dibawah ini:
+
 <img width="564" height="472" alt="Screenshot 2025-12-08 233843" src="https://github.com/user-attachments/assets/f6a1a76c-b9c9-437c-a346-8d04f7eb7655" />
 
 ## Deskripsi Variabel
